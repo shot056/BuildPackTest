@@ -1,0 +1,13 @@
+[Tue Nov 25 00:32:24 2014] [info] Listening at "http://*:3000".
+[Tue Nov 25 00:32:33 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Nov 25 00:32:33 2014] [debug] GET "/".
+[Tue Nov 25 00:32:33 2014] [debug] Routing to controller "BuildPackTest::Controller::Example" and action "welcome".
+[Tue Nov 25 00:32:33 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Nov 25 00:32:33 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Nov 25 00:32:33 2014] [debug] 200 OK (0.004292s, 232.992/s).
+[Tue Nov 25 00:34:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Nov 25 00:34:45 2014] [debug] GET "/".
+[Tue Nov 25 00:34:45 2014] [debug] Routing to controller "BuildPackTest::Controller::Example" and action "welcome".
+[Tue Nov 25 00:34:45 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Nov 25 00:34:45 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Nov 25 00:34:45 2014] [debug] 200 OK (0.003583s, 279.096/s).
